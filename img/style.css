@@ -1,0 +1,36 @@
+body{
+  font-family:"游明朝" ;
+
+}
+#clear_text {
+  font-family:"游明朝";
+  background:#ffffff
+}
+a {
+  margin: 0;  
+  padding : 10px;
+  display: block;
+  background:#F0F9E0;
+  color: black;
+  border-top: 1px solid #fff;
+}
+.accordion {
+    width : 500 px;
+    margin: 0 auto;
+}
+.accordion-trigger {
+  margin: 0;  
+  padding : 10px;
+  display: block;
+  background:#87CEFA;
+  color: #FFF;
+  border-top: 1px solid #fff;
+}
+.accordion-contents {
+    margin: 0;
+    padding : 10px;
+    border: 1px solid #ccc;
+    display: none;
+  }
+
+

@@ -1,0 +1,20 @@
+body{
+    font-family:"游明朝" ;
+    background:linear-gradient(50deg, azure, white) ;;　
+    margin :10px;
+    padding:10px;
+ }
+
+a{
+    color: blue
+}
+    
+p.title {
+    font-family: 'Arial Black','ヒラギノ角ゴシック','Hiragino Sans','メイリオ', Meiryo,'ヒラギノ角ゴ StdN','Hiragino Kaku Gothic StdN',sans-serif;
+    color: #eaf4fc;
+    font-size:4em;
+    line-height:80%;
+    margin: 0px;
+    }
+
+    
