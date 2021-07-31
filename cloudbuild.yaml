@@ -1,0 +1,3 @@
+steps:
+-name : 'gcr.io/google.com/cloudsd-rktool/clous-sdk'
+ args: ['gsutil', 'rsync', '-d', '-r', '.', 'gs://myhomepagebudget/']
